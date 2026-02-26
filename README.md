@@ -16,19 +16,3 @@
 </div>
 
 
-<table align="center">
-  <tr>
-    <th colspan="2" align="center">OUVIDO NO SPOTIFY 🎧</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/l2JHQGzN6K9qO1n9y/giphy.gif" width="250">
-    </td>
-    
-    <td align="center">
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3irmw49a47yw0as91zyzuc632&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true" width="400">
-      </a>
-    </td>
-  </tr>
-</table>
