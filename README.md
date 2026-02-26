@@ -6,7 +6,6 @@
 
 <br/>
 ## REDES SOCIAIS E CONTATOS
----
 <div align="left">
   <a href="SEU_LINK_DO_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="SEU_LINK_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
